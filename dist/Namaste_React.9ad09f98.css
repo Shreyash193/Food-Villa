@@ -1,0 +1,58 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+    border: 1px solid black;
+}
+.nav-items>ul{
+    list-style-type: none;
+    display: flex;
+
+
+} 
+
+.nav-items>ul>li{
+    padding: 10px;
+}
+
+.logo{
+    width: 100px;
+    height: 100px;
+    padding: 0px;
+    margin: 0px;
+}
+
+.card{
+    
+    width: 200px;
+    border: 1px solid black;
+    padding: 10px;
+    margin: 10px;
+}
+
+.card > img{
+    width: 100%;
+}
+
+.restaurant-list{
+    display: flex;
+    flex-wrap: wrap;
+    word-wrap: break-word;  
+    
+    
+}
+
+.shimmer-card{
+    width: 200px;
+    height: 200px;
+    background: lightgrey;
+    margin:20px;
+}
+
+.restaurant-info>img{
+    height: 200px;
+    width: 200px;
+
+}
+
+/*# sourceMappingURL=/Namaste_React.9ad09f98.css.map */
